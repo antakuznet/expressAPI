@@ -1,0 +1,19 @@
+{
+  "name": "expressproject",
+  "version": "1.0.0",
+  "description": "Express NodeJS project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antakuznet/expressAPI.git"
+  },
+  "author": "Anton Kuznetsov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/antakuznet/expressAPI/issues"
+  },
+  "homepage": "https://github.com/antakuznet/expressAPI#readme"
+}
