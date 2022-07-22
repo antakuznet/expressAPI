@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/antakuznet/expressAPI/issues"
   },
-  "homepage": "https://github.com/antakuznet/expressAPI#readme"
+  "homepage": "https://github.com/antakuznet/expressAPI#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
 }
